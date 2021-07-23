@@ -1,2 +1,0 @@
-# CITDemo
-CIT phonegap demo
